@@ -7,7 +7,7 @@ import { StyleSheet, Text, View, Button, Image } from 'react-native';
 // Retornar o que vai ser renderizado na tela (Template feito com JSX)
 export default function App() {
   // lógica do meu componente
-  const nome = "Gabriel"
+  const nome = "Gustavo"
 
   function alerta() {
     alert("Clicou no botão")
